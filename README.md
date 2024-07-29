@@ -31,3 +31,8 @@ Sou o <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/
 <p>
 ► Jogar MMORPG 🇽🇵 </p>
 <p>
+
+<div>  
+  <h4 align="left"> Visitantes </h4>
+  <img align="left" src="https://profile-counter.glitch.me/IgorTecnologia/count.svg">
+   </div>
