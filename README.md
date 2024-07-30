@@ -2,8 +2,8 @@
 
 Sou o <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/igu-goncalves/">Igor Gonçalves</a>, meu interesse em me tornar um desenvolvedor Backend, surgiu através da minha irmã, quando teve sua vida transformada através da ONG Generation Brasil, e desde então sigo me desenvolvendo a cada dia.
 
-- 💻 Formado em Java básico e intermediário através do YouTube com a professora Loiane Groner.
-- 🤵🏽 Formado como desenvolvedor Jr.Java React Full Stack na ONG Generation Brasil, porém sigo como dev backend.
+- 💻 Formado em <a class="badge-base__link LI-simple-link" href="https://i.imgur.com/78Ufjx5.png">Java básico</a> e <a class="badge-base__link LI-simple-link" href="https://i.imgur.com/jzCntgd.png">intermediário</a> através do YouTube com a instrutora Loiane Groner.
+- 🤵🏽 <a class="badge-base__link LI-simple-link" href="https://e-certificado.com/login/visualizar?c=2048579A089F418113357850">Formado como desenvolvedor</a> Web Full Stack Junior na ONG Generation Brasil, porém sigo como dev backend.
 - 🎯 Cursos remotos adicionais Java + Spring.
 
 
