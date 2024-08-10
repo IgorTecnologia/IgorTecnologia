@@ -37,4 +37,4 @@ Sou o <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/
   <img align="left" src="https://profile-counter.glitch.me/IgorTecnologia/count.svg">
    </div>
 
-![snake-gif](https://github.com/IgorTecnologia/IgorTecnologia/blob/output/github-contribution-grid-snake .svg)
+![snake-gif](https://github.com/IgorTecnologia/IgorTecnologia/blob/output/github-contribution-grid-snake.svg)
