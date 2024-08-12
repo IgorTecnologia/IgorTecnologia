@@ -36,5 +36,3 @@ Sou o <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/
   <h4 align="left"> Visitantes </h4>
   <img align="left" src="https://profile-counter.glitch.me/IgorTecnologia/count.svg">
    </div>
-
-![Snake animation](https://github.com/IgorTecnologia/IgorTecnologia/blob/output/github-contribution-grid-snake.svg)
