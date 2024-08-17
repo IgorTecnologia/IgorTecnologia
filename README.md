@@ -28,9 +28,6 @@ Sou o <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/
 ► Codar 🎯</p>
 <p>
 ► Brincar com nossa cachorra Alaska 🐶 </p>
-<p>
-► Jogar MMORPG 🇽🇵 </p>
-<p>
 
 <div>  
   <h4 align="left"> Visitantes </h4>
