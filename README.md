@@ -23,8 +23,6 @@ Sou o <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/
 
 <h3>Hobbies 🎉</h3>
 <p>
-► Ouvir Guitarras Falando 🎸</p>
-<p>
 ► Codar 🎯</p>
 <p>
 ► Brincar com nossa cachorra Alaska 🐶 </p>
